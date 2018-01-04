@@ -1,5 +1,5 @@
 # unsocial media
-facebook.com
-whatsapp.com
-instagram.com
+0.0.0.0 facebook.com
+0.0.0.0 whatsapp.com
+0.0.0.0 instagram.com
 
