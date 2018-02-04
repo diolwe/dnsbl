@@ -1,8 +1,44 @@
 #### 2018-02-04
 #### DNS Block
+#### Facepalm
 facebook.com
 facebook.de
 whatsapp.com
 whatsapp.de
 instagram.com
 instagram.de
+### W10
+### http://someonewhocares.org/hosts/
+a.ads2.msads.net
+adnexus.net
+aidps.atdmt.com
+a-msedge.net
+az361816.vo.msecnd.net
+az512334.vo.msecnd.net
+b.ads1.msn.com
+b.ads2.msads.net
+c.atdmt.com
+cdn.atdmt.com
+cds26.ams9.msecn.net
+c.msn.com
+db3aqu.atdmt.com
+ec.atdmt.com
+feedback.microsoft-hohm.com
+flex.msn.com
+g.msn.com
+h1.msn.com
+lb1.www.ms.akadns.net
+live.rads.msn.com
+m.adnxs.com
+msedge.net
+msnbot-65-55-108-23.search.msn.com
+msntest.serving-sys.com
+preview.msn.com
+reports.wes.df.telemetry.microsoft.com
+schemas.microsoft.akadns.net
+secure.flashtalking.com
+settings-win.data.microsoft.com
+sO.2mdn.net
+statsfe2.ws.microsoft.com
+telemetry.appex.bing.net
+wes.df.telemetry.microsoft.com
