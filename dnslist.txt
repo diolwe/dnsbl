@@ -1,12 +1,12 @@
 #### 2018-02-04
 #### DNS Block
 #### Facepalm
-facebook.com
-facebook.de
-whatsapp.com
-whatsapp.de
-instagram.com
-instagram.de
+#facebook.com
+#facebook.de
+#whatsapp.com
+#whatsapp.de
+#instagram.com
+#instagram.de
 ### W10
 ### http://someonewhocares.org/hosts/
 a.ads2.msads.net
